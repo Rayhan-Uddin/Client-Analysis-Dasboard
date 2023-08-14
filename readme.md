@@ -77,5 +77,3 @@ performance and profitability.
 
 
 
-
-[![Video Thumbnail](https://github.com/Rayhan-Uddin/HR-Attrition-Dashboard/blob/main/2023-07-20%2023-17-24.mkv)
