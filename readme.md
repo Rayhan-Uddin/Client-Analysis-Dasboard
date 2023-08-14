@@ -36,15 +36,19 @@ SUMX: This function allowed for the calculation of a sum over an expression with
 
 Numerous measures were created within the "All Measures" CSV file to derive valuable insights:
 
-Total Gross Profit
-Total Revenue
-Revenue from Male and Female customers
-Total Quantity Sold
-And many others
-Dashboard Creation and Visualization
+Total Gross Profit,
+Total Revenue,
+Revenue from Male and Female customers,
+Total Quantity Sold,
+Male  & female profit,
+Single,multiple quantity order,
+Return order ,
+Last month revenue  And many others .
+
+## Dashboard Creation and Visualization ##
 
 
-**Excel Sheet:**
+Excel Sheet:
 
 A new Excel sheet named "Analysis" was created to house the dashboard components and visualizations.
 
