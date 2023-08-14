@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/Rayhan-Uddin/Client-Analysis-Dasboard/blob/main/Screenshot%202023-08-14%20180823.png" />
+<img src="https://github.com/Rayhan-Uddin/Client-Analysis-Dasboard/blob/main/Screenshot%202023-08-14%20223044.png" />
 </div>
 
 
